@@ -8,7 +8,8 @@
 - [UFDL Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) Andrew Ng等维护的深度学习教程，作为其机器学习课程的后续内容
 
 ### Online Course Resources
-- [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
+- [Stanford cs224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
+- [Stanford cs224u: Natual Language Understanding](http://web.stanford.edu/class/cs224u/)
 
 ### Other resources:
 - [中国中文信息协会](http://www.cipsc.org.cn/) 会议信息及部分数据
