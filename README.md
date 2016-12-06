@@ -6,6 +6,7 @@
 - [自然语言理解 *宗成庆*](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)
 - [POMDP for Dummies](http://www.pomdp.org/tutorial/)
 - [UFDL Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) Andrew Ng等维护的深度学习教程，作为其机器学习课程的后续内容
+- [Sutton & Barto Book: Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
 
 ### Online Course Resources
 - [Stanford cs224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
