@@ -5,12 +5,13 @@
 - [Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville*](https://www.deeplearningbook.org/)
 - [自然语言理解 *宗成庆*](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)
 - [POMDP for Dummies](http://www.pomdp.org/tutorial/)
-
+- [UFDL Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) Andrew Ng等维护的深度学习教程，作为其机器学习课程的后续内容
 ### Online Course Resources
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
 ### Other resources:
 - [中国中文信息协会](http://www.cipsc.org.cn/) 会议信息及部分数据
+- [语料库-自然语言处理与信息检索](http://www.nlpir.org/?action-category-catid-28) 北京理工大学张华平老师维护的资源平台
 
 ## Social Network Analysis
 ### Online Books
