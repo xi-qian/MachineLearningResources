@@ -16,4 +16,5 @@
 ### Online Course Resources
 - [人群与网络](http://www.chinesemooc.org/mooc/4406)
 
-
+### Other resources:
+- [清华计算机系 唐杰]http://keg.cs.tsinghua.edu.cn/jietang/ 可找到社会网络分析综述性内容及最新进展
