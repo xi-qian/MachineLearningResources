@@ -9,6 +9,9 @@
 ### Online Course Resources
 - [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
+### Other resources:
+- [中国中文信息协会](http://www.cipsc.org.cn/) 会议信息及部分数据
+
 ## Social Network Analysis
 ### Online Books
 - [Networks, Crowds and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) 中文课程：人群与网络
