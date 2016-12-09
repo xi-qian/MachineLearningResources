@@ -3,6 +3,7 @@
 ### Online Books 
 - [Model based Machine Learning](http://mbmlbook.com/toc.html)
 - [Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville*](https://www.deeplearningbook.org/)
+- [Deep Learning 中文翻译草稿 by 张华平团队] (https://github.com/exacity/deeplearningbook-chinese)
 - [自然语言理解 *宗成庆*](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)
 - [POMDP for Dummies](http://www.pomdp.org/tutorial/)
 - [UFDL Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) Andrew Ng等维护的深度学习教程，作为其机器学习课程的后续内容
