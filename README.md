@@ -8,6 +8,7 @@
 - [POMDP for Dummies](http://www.pomdp.org/tutorial/)
 - [UFDL Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) Andrew Ng等维护的深度学习教程，作为其机器学习课程的后续内容
 - [Sutton & Barto Book: Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
+- [文本上的算法](https://github.com/yanxionglu/text_pdf) 简短的综述，可先读这个再看其他
 
 ### Online Course Resources
 - [Stanford cs224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
@@ -17,6 +18,7 @@
 - [中国中文信息协会](http://www.cipsc.org.cn/) 会议信息及部分数据
 - [语料库-自然语言处理与信息检索](http://www.nlpir.org/?action-category-catid-28) 北京理工大学张华平老师维护的资源平台
 - [各种数据指标的计算 from kaggle](https://www.kaggle.com/wiki/Metrics)
+- [Linking paper with their implementation on github](http://www.gitxiv.com/)
 
 ## Social Network Analysis
 ### Online Books
