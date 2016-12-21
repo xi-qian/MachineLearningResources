@@ -19,6 +19,7 @@
 - [语料库-自然语言处理与信息检索](http://www.nlpir.org/?action-category-catid-28) 北京理工大学张华平老师维护的资源平台
 - [各种数据指标的计算 from kaggle](https://www.kaggle.com/wiki/Metrics)
 - [Linking paper with their implementation on github](http://www.gitxiv.com/)
+- [多轮对话的答案选择测试集](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
 
 ## Social Network Analysis
 ### Online Books
