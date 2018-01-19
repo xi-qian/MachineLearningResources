@@ -4,10 +4,19 @@
 - [Model based Machine Learning](http://mbmlbook.com/toc.html)
 - [Deep Learning *by Ian Goodfellow and Yoshua Bengio and Aaron Courville*](https://www.deeplearningbook.org/)
 - [Deep Learning 中文翻译草稿 by 张华平团队] (https://github.com/exacity/deeplearningbook-chinese)
-- [自然语言理解 *宗成庆*](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)
 - [POMDP for Dummies](http://www.pomdp.org/tutorial/)
 - [UFDL Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) Andrew Ng等维护的深度学习教程，作为其机器学习课程的后续内容
 - [Sutton & Barto Book: Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
+
+## Music
+### Resources
+- [deep learning resources for music](https://github.com/ybayle/awesome-deep-learning-music)
+- [Lakh MIDI dataset](http://colinraffel.com/projects/lmd/)
+- [Jamebot:Music Theory Aware Chord Based Generation of Polyphonic Music with LSTMs](https://github.com/brunnergino/JamBot)
+
+## NLP
+### Online Books
+- [自然语言理解 *宗成庆*](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/ReportandLectureIndex.htm)
 - [文本上的算法](https://github.com/yanxionglu/text_pdf) 简短的综述，可先读这个再看其他
 
 ### Online Course Resources
@@ -30,3 +39,4 @@
 
 ### Other resources:
 - [清华计算机系 唐杰](http://keg.cs.tsinghua.edu.cn/jietang/) 可找到社会网络分析综述性内容及最新进展
+
