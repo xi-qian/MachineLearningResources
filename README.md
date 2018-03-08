@@ -7,6 +7,7 @@
 - [POMDP for Dummies](http://www.pomdp.org/tutorial/)
 - [UFDL Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial) Andrew Ng等维护的深度学习教程，作为其机器学习课程的后续内容
 - [Sutton & Barto Book: Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
+- [神经网络与深度学习](https://nndl.github.io/) 有很多公式的具体规范推导过程
 
 ## Music
 ### Resources
