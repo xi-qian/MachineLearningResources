@@ -31,6 +31,10 @@
 - [Linking paper with their implementation on github](http://www.gitxiv.com/)
 - [多轮对话的答案选择测试集](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
 
+## Spoken Language Processing
+### Online Course Resources
+- [Stanford CS224S / LINGUIST285 - Spoken Language Processing](http://web.stanford.edu/class/cs224s/syllabus.html)
+
 ## Social Network Analysis
 ### Online Books
 - [Networks, Crowds and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) 中文课程：人群与网络
